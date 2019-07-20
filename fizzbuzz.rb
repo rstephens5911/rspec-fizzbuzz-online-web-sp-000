@@ -8,6 +8,7 @@ def fizzbuzz(num)
   elsif (num % 3 != 0 && num % 5 == 0)
     return "Buzz"
   end
+end
 
   fizzbuz(15)
   fizzbuz(3)
