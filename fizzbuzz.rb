@@ -14,4 +14,3 @@ end
   fizzbuz(3)
   fizzbuzz(5)
   fizzbuzz(8)
-  
