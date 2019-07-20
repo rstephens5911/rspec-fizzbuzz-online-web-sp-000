@@ -9,8 +9,3 @@ def fizzbuzz(num)
     return "Buzz"
   end
 end
-
-  fizzbuz(15)
-  fizzbuz(3)
-  fizzbuzz(5)
-  fizzbuzz(8)
